@@ -12,5 +12,3 @@ print("Subtraction:", subtraction)
 print("Multiplication:", multiplication)
 print("Division:", division)
 
-concat = str(num1) + str(num2)
-print("String Concatenation:", concat)
